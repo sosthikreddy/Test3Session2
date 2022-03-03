@@ -1,2 +1,2 @@
-language = "bash"
-run = "pwd"
+language = "c"
+run = "gcc -g gdb"
